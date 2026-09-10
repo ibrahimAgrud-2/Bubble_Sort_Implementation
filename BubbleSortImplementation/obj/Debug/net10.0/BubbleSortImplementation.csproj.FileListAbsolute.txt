@@ -1,0 +1,15 @@
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/bin/Debug/net10.0/BubbleSortImplementation
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/bin/Debug/net10.0/BubbleSortImplementation.deps.json
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/bin/Debug/net10.0/BubbleSortImplementation.runtimeconfig.json
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/bin/Debug/net10.0/BubbleSortImplementation.dll
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/bin/Debug/net10.0/BubbleSortImplementation.pdb
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.AssemblyInfoInputs.cache
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.AssemblyInfo.cs
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.csproj.CoreCompileInputs.cache
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.sourcelink.json
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.dll
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/refint/BubbleSortImplementation.dll
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.pdb
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/BubbleSortImplementation.genruntimeconfig.cache
+/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/obj/Debug/net10.0/ref/BubbleSortImplementation.dll
