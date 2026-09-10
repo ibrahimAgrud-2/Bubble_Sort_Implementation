@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X+4MHI819Bs=",
+  "success": true,
+  "projectFilePath": "/home/ibrahim/Belgeler/VsCode/23th Course Examples/BubbleSortImplementation/BubbleSortImplementation/BubbleSortImplementation.csproj",
+  "expectedPackageFiles": [
+    "/home/ibrahim/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
